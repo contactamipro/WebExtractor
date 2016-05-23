@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffda41b8-7818-405a-abbb-3acc9d3e9571" name="Default" comment="" />
+    <ignored path="webextractor.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="webextractor" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="webextractor" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="webextractor" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="other" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode$1" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webextractor" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="webextractor" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="webextractor" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'integrationTest:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileIntegrationTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'webextractor'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'webextractor'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'webextractor'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'integrationTest'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="integrationTestClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'webextractor'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'integrationTest:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processIntegrationTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'webextractor'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'webextractor'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'webextractor'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2927886246000" />
+        <entry key="$PROJECT_DIR$/../allocation-engine" value="4349278767000" />
+        <entry key="$PROJECT_DIR$/../ddo-smr-ora" value="4350544233000" />
+        <entry key="$PROJECT_DIR$/../ddo-web" value="4367421711000" />
+        <entry key="$PROJECT_DIR$/../metapack-manager/mm-orca-service" value="1457004825000" />
+        <entry key="$PROJECT_DIR$/../throttle-test" value="1451908076000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.6.RELEASE/41491c9e9c55fe0fcab766d905b9fb87463262ac/spring-core-4.2.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.6.RELEASE/a1c6ef01f18888f51fc5054c65ef4787b7cf0a1e/spring-core-4.2.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.3.5.RELEASE/d7ca7543e79652a458d1e2085b2d13a05163c7a4/spring-boot-starter-web-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.3.5.RELEASE/1ad40f8edd1b502fb82bfae3a6feb8be3a2b44fa/spring-boot-starter-web-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/1.3.5.RELEASE/b28a1b6894659bec9771f6ae2c6e8b26d40583d4/spring-boot-starter-actuator-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/1.3.5.RELEASE/abb4f12506b8cd47689be14b0f54a24dd79f3ed5/spring-boot-starter-actuator-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-thymeleaf/1.3.5.RELEASE/91938647466853819032f576fe5122f64004fa84/spring-boot-starter-thymeleaf-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-thymeleaf/1.3.5.RELEASE/24bcfa3419a48a7b35d9c7984c06e537c3225c57/spring-boot-starter-thymeleaf-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.6.RELEASE/42938681af0f03512b8771cb1f0be49ff7fbfaa4/spring-context-4.2.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.6.RELEASE/bbf3c8526fe37bb341507f28db17882d4348dbca/spring-context-4.2.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/19c6d8dee6803c520d855ff7e8a8c3d97f1271ec/json-simple-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.9.2/97441f4a0f6bb4c2d9f1e19321f4a45c9ffd0e2c/jsoup-1.9.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.9.2/5e3bda828a80c7a21dfbe2308d1755759c2fd7b4/jsoup-1.9.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.2.6.RELEASE/96c167acba2d11cc35c69fcf5d279e6ac08ce336/spring-test-4.2.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/4.2.6.RELEASE/1f869333b3d64f17009a613368165978af575d8c/spring-test-4.2.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.3.5.RELEASE/e672f1de5c6224ae6123f94d13a0b7b47f0cbe3b/spring-boot-starter-tomcat-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.3.5.RELEASE/b4c6277ccec38c51716659886efec073c4b386ea/spring-boot-starter-tomcat-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.3.5.RELEASE/b07d8c139a4f6be8baf90ba68020e33e19117089/spring-boot-starter-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.3.5.RELEASE/188c658fabbce0d1ccc1ae18a1cf58f566208c78/spring-boot-starter-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/2.1.4.RELEASE/4aa7049660b4d1a6a34348c1fdd91cd5d8eee1cb/thymeleaf-2.1.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/2.1.4.RELEASE/a730d892f3c57ba3d24af2ca657b42d81398a85a/thymeleaf-2.1.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/f285ac123f201fb4b028bac556928d7cf527ef48/slf4j-api-1.7.21-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/1.3.5.RELEASE/7a54256e5d24ba29c15acccfe1f695d091701dc2/spring-boot-starter-validation-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/1.3.5.RELEASE/c83a6cc60a95faace7e03c524d60fc9de1329f57/spring-boot-starter-validation-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.6/ca843a8233bdac6e7bb0aeb57473c622b9fdee8b/jackson-databind-2.6.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.6/5108dde6049374ba980b360e1ecff49847baba4a/jackson-databind-2.6.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.2.6.RELEASE/969d3b628a6b1e2d77bad07669539b27b35ce59a/spring-web-4.2.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.2.6.RELEASE/d5ce949da3f3266f118ed899a153413613b503ad/spring-web-4.2.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.6/374c945163de9e06b680d4e119110d262b841d6f/groovy-2.4.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.6/844cb06c553a5e6a736f44aa2b67d25bf6a34fde/groovy-2.4.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.2.6.RELEASE/33f820095e1e3978f58ac47747e13f1f146ef69/spring-webmvc-4.2.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.2.6.RELEASE/7c7ea475d33287e0e3a92e98ccbe0ad6a0dbb9ca/spring-webmvc-4.2.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.7/6cfaf5c02fb50bfdf7ea5e563955d3c229d7e154/logback-classic-1.1.7-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.7/9865cf6994f9ff13fce0bf93f2054ef6c65bb462/logback-classic-1.1.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.21/c565ca9c1239b38fe4a70e4101086c4e880f6358/jcl-over-slf4j-1.7.21-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.21/331b564a3a42f002a0004b039c1c430da89062cd/jcl-over-slf4j-1.7.21.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/1.3.5.RELEASE/eec7afb09d42767cfc6feda8e499589fad4d0d0/spring-boot-actuator-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/1.3.5.RELEASE/97b25693835ca5bf436dea760fe337833d6aa51b/spring-boot-actuator-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.21/5f537a1ecb32fe3173a95f3c2c233f35f250faef/jul-to-slf4j-1.7.21-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.21/2f22c882ffa479d1e9ff4eb0e8e2c29f2a0871ed/jul-to-slf4j-1.7.21.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.21/7d7494c4241d0dee8bf0680187282d3dc19844e/log4j-over-slf4j-1.7.21-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.21/b3700d97464d99bdcd42c0177d6e7951c94d75ff/log4j-over-slf4j-1.7.21.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring4/2.1.4.RELEASE/69f9fde587c69648bc1c2d59681ab38e77221a64/thymeleaf-spring4-2.1.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring4/2.1.4.RELEASE/e5677e7daedfd05e001945abf4295305ac23826b/thymeleaf-spring4-2.1.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/nz.net.ultraq.thymeleaf/thymeleaf-layout-dialect/1.3.3/c04481e619b47736d03ae93a8587904dbc93e11e/thymeleaf-layout-dialect-1.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/nz.net.ultraq.thymeleaf/thymeleaf-layout-dialect/1.3.3/a58f248ee7c556265c49df466a6071956389c9ab/thymeleaf-layout-dialect-1.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.6.RELEASE/233683d43b9f874461dfef7ba1ae0f5a65575930/spring-aop-4.2.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.6.RELEASE/5efbfccb19efda2956b8977561bf4da6b15b0d0e/spring-aop-4.2.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/8613ae82954779d518631e05daa73a6a954817d5/validation-api-1.1.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.0.Final/3625e6818158ddb4754fa2ec51299e5f57e596b4/jboss-logging-3.3.0.Final-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.0.Final/3616bb87707910296e2c195dc016287080bba5af/jboss-logging-3.3.0.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.1.0/53b184da3b8780beff23ba6bf1aaece92ee45e6f/classmate-1.1.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.1.0/dbbd699a1486ad0f2ed6f5af6cfed66acacb9056/classmate-1.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.6.RELEASE/a0cfb8efd8bd579fc95405782cd0440a514eb6ae/spring-beans-4.2.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.6.RELEASE/d4a319fb4d949fb6313f45c929947b9b4e26283e/spring-beans-4.2.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.33/3ebeb691a03012477d866c6bddc2af027f9ee6a8/tomcat-embed-core-8.0.33-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.33/4e7f547fbb2c364cb5e02a58790c5fb89e31efed/tomcat-embed-core-8.0.33.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.33/d99417083ce7a327bc3d90d992ae217e1bbe26ef/tomcat-embed-logging-juli-8.0.33-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.33/66bc309e0227c1ba2cf4417182d0b1583003d24b/tomcat-embed-logging-juli-8.0.33.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.33/29a65b0e0656eda186b4eebfe9a3add9a82b5a17/tomcat-embed-websocket-8.0.33-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.33/be1f95e5d9ae00f9bc6138441d29cfe5c7c60256/tomcat-embed-websocket-8.0.33.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ognl/ognl/3.0.8/1b6bace3760cdf6dfb2c0fea0b266fa9d802c403/ognl-3.0.8-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ognl/ognl/3.0.8/37e1aebfde7eb7baebc9ad4f85116ef9009c5fc5/ognl-3.0.8.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.18.1-GA/d8d089f3a8845cce22d3006e02ab1403dd73b5b6/javassist-3.18.1-GA-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.18.1-GA/d9a09f7732226af26bf99f19e2cffe0ae219db5b/javassist-3.18.1-GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.unbescape/unbescape/1.1.0.RELEASE/ffc384b1f9fcd7d9a61d764b3cafccca187cb02f/unbescape-1.1.0.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.unbescape/unbescape/1.1.0.RELEASE/ab0db4fe0a6fa89fb8da2a40008a4e63a7f3f5b9/unbescape-1.1.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.7/15a62dbee75aadf62b7d35640533262d764b29d3/logback-core-1.1.7-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.7/7873092d39ef741575ca91378a6a21c388363ac8/logback-core-1.1.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.6.RELEASE/9efcfd46c0fc1b134dc4674472b07354898b1d40/spring-expression-4.2.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.6.RELEASE/c0182d73f348ab11d51d45cbe29f3820c32d0ccc/spring-expression-4.2.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.3.5.RELEASE/d9e9a821b1971aa42875eaec6bafe00b19478c46/spring-boot-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.3.5.RELEASE/b218ba5f3bd01e657fbde9b085722da1fafa4f8a/spring-boot-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.3.5.RELEASE/75af1389219bde17a527406527c359ad84745ee5/spring-boot-autoconfigure-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.3.5.RELEASE/2bcfa86bb3afd95eff5252db6d78f2693b706997/spring-boot-autoconfigure-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.3.5.RELEASE/5565a4dd9bff9aad3c0dc83022d7b18bd0f0a25d/spring-boot-starter-logging-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.3.5.RELEASE/a71e1d7fff512b1eadd3426ea1ce5b4cc703c429/spring-boot-starter-logging-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/ad03b39efb3749be4c8d2eae23d6dee72c889f3b/snakeyaml-1.16-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/d64fb662c9e42789149f5078a62a22edda786c6a/snakeyaml-1.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.33/bdbc88df0d8a611274032a18743b6afc041be3dc/tomcat-embed-el-8.0.33-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.33/31423f2d493cf1f7cf5f0082c9f94640e93b8c1b/tomcat-embed-el-8.0.33.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.2.4.Final/b02d7b80cdadbfc51106252238fc1a667c8287eb/hibernate-validator-5.2.4.Final-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.2.4.Final/fb18766b576aa6632bcfe9a20a023cbd52bf9769/hibernate-validator-5.2.4.Final.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.6/516029a71ef1b64193a6e389225ca22b72fb0c7/jackson-annotations-2.6.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.6/7ef6440e71531604aa44a5eb62d4b466ffbf7e8f/jackson-annotations-2.6.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.6/8ee54db2ad9ea0e244c38d584150b3d524b13d80/jackson-core-2.6.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.6/2eb801df67aacaf5b1deb4ac626e1964508e47b/jackson-core-2.6.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.3.5.RELEASE/76bb37c161c450c2b042e3f039e9ec7d018670f6/spring-boot-gradle-plugin-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.3.5.RELEASE/76797f836a3fbc1b8bc96f117253d107ee977c59/spring-boot-gradle-plugin-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.3.5.RELEASE/ee203cb3dd90780edf1b1adc5f8ef623e65613d1/spring-boot-loader-tools-1.3.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.3.5.RELEASE/e7e55842fc21022945933f3236f8a0d9c915876f/spring-boot-loader-tools-1.3.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.6.RELEASE/ead850728464fa3eb062e3a6ce54619cc322dc67/dependency-management-plugin-0.5.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.6.RELEASE/b4833216b1cb83ec4a7476ac164843d976f28b4f/dependency-management-plugin-0.5.6.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="webextractor" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-base-services-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-base-services-groovy-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-cli-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-core-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-docs-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-launcher-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-messaging-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-model-core-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-model-groovy-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-open-api-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-resources-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-tooling-api-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-ui-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/gradle-wrapper-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/groovy-all-2.3.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-announce-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-antlr-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-build-comparison-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-build-init-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-code-quality-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-dependency-management-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-diagnostics-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-ear-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-ide-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-ide-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-ivy-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-jacoco-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-javascript-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-jetty-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-language-groovy-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-language-java-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-language-jvm-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-language-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-language-scala-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-maven-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-osgi-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-platform-base-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-platform-jvm-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-platform-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-platform-play-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-plugin-development-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-plugin-use-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-plugins-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-publish-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-reporting-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-resources-http-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-resources-s3-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-resources-sftp-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-scala-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-signing-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-sonar-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-testing-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/gradle-tooling-api-builders-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-all/d3xh0kipe7wr2bvnx5sk0hao8/gradle-2.5/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/ProductInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/SainsburysWebScraper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/WebScraper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SainsburysWebScraperTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/ScraperException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/scraper/WebScraper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/exception/ScraperException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sainsburys/webextractor/scraper/SainsburysWebScraperTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/model/ProductInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/scraper/SainsburysWebScraper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/Runner.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebExtractor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebExtractor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebExtractor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.splitter.proportion" value="0.2800633" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sainsburys.webextractor" />
+      <recent name="com.sainsburys.webextractor.scraper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SainsburysWebScraperTest">
+    <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sainsburys.webextractor.scraper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sainsburys.webextractor.Application" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="webextractor" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SainsburysWebScraperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sainsburys.webextractor.scraper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="webextractor" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sainsburys.webextractor.scraper" />
+      <option name="MAIN_CLASS_NAME" value="com.sainsburys.webextractor.scraper.SainsburysWebScraperTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SainsburysWebScraperTest.testScrapeReturnsProductInfos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sainsburys.webextractor.scraper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="webextractor" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sainsburys.webextractor.scraper" />
+      <option name="MAIN_CLASS_NAME" value="com.sainsburys.webextractor.scraper.SainsburysWebScraperTest" />
+      <option name="METHOD_NAME" value="testScrapeReturnsProductInfos" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SainsburysWebScraperTest.testScrapeHasTotalAndResults" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sainsburys.webextractor.scraper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="webextractor" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sainsburys.webextractor.scraper" />
+      <option name="MAIN_CLASS_NAME" value="com.sainsburys.webextractor.scraper.SainsburysWebScraperTest" />
+      <option name="METHOD_NAME" value="testScrapeHasTotalAndResults" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SainsburysWebScraperTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SainsburysWebScraperTest.testScrapeReturnsProductInfos" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SainsburysWebScraperTest.testScrapeHasTotalAndResults" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SainsburysWebScraperTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Application" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SainsburysWebScraperTest.testScrapeHasTotalAndResults" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SainsburysWebScraperTest.testScrapeReturnsProductInfos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1464032633009" />
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffda41b8-7818-405a-abbb-3acc9d3e9571" name="Default" comment="" />
+      <created>1463938744042</created>
+      <option name="number" value="Default" />
+      <updated>1463938744042</updated>
+      <workItem from="1463938745242" duration="9182000" />
+      <workItem from="1464029057758" duration="3150000" />
+      <workItem from="1464032604294" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SainsburysWebScraperTest - 2016.05.22 at 21h 21m 31s.xml">
+      <configuration name="SainsburysWebScraperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SainsburysWebScraperTest - 2016.05.22 at 21h 22m 42s.xml">
+      <configuration name="SainsburysWebScraperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SainsburysWebScraperTest - 2016.05.22 at 21h 25m 50s.xml">
+      <configuration name="SainsburysWebScraperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SainsburysWebScraperTest - 2016.05.22 at 21h 26m 52s.xml">
+      <configuration name="SainsburysWebScraperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SainsburysWebScraperTest - 2016.05.23 at 20h 01m 05s.xml">
+      <configuration name="SainsburysWebScraperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SainsburysWebScraperTest - 2016.05.23 at 20h 12m 14s.xml">
+      <configuration name="SainsburysWebScraperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SainsburysWebScraperTest - 2016.05.23 at 20h 25m 09s.xml">
+      <configuration name="SainsburysWebScraperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SainsburysWebScraperTest - 2016.05.23 at 20h 28m 34s.xml">
+      <configuration name="SainsburysWebScraperTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SainsburysWebScraperTest_testScrapeHasTotalAndResults - 2016.05.22 at 21h 22m 17s.xml">
+      <configuration name="SainsburysWebScraperTest.testScrapeHasTotalAndResults" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SainsburysWebScraperTest_testScrapeReturnsProductInfos - 2016.05.22 at 20h 45m 47s.xml">
+      <configuration name="SainsburysWebScraperTest.testScrapeReturnsProductInfos" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12380000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4384106" sideWeight="0.27539343" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22818312" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.48855507" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.47711015" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4384106" sideWeight="0.7246066" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/scraper/SainsburysWebScraper.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="87" selection-start-line="34" selection-start-column="87" selection-end-line="34" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sainsburys/webextractor/scraper/SainsburysWebScraperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/scraper/SainsburysWebScraper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="26" selection-start-column="4" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/exception/ScraperException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/model/ProductInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#950#951#0" expanded="false" />
+            <element signature="e#978#979#0" expanded="false" />
+            <element signature="e#1020#1021#0" expanded="false" />
+            <element signature="e#1054#1055#0" expanded="false" />
+            <element signature="e#1089#1090#0" expanded="false" />
+            <element signature="e#1116#1117#0" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1192#1193#0" expanded="false" />
+            <element signature="e#1232#1233#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1318#1319#0" expanded="false" />
+            <element signature="e#1360#1361#0" expanded="false" />
+            <element signature="e#1398#1399#0" expanded="false" />
+            <element signature="e#1432#1433#0" expanded="false" />
+            <element signature="e#1486#1487#0" expanded="false" />
+            <element signature="e#1532#1533#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/scraper/WebScraper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="87" selection-start-line="34" selection-start-column="87" selection-end-line="34" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sainsburys/webextractor/scraper/SainsburysWebScraperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/scraper/SainsburysWebScraper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="107" selection-start-line="2" selection-start-column="107" selection-end-line="2" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/model/ProductInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#950#951#0" expanded="false" />
+            <element signature="e#978#979#0" expanded="false" />
+            <element signature="e#1020#1021#0" expanded="false" />
+            <element signature="e#1054#1055#0" expanded="false" />
+            <element signature="e#1089#1090#0" expanded="false" />
+            <element signature="e#1116#1117#0" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1192#1193#0" expanded="false" />
+            <element signature="e#1232#1233#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1318#1319#0" expanded="false" />
+            <element signature="e#1360#1361#0" expanded="false" />
+            <element signature="e#1398#1399#0" expanded="false" />
+            <element signature="e#1432#1433#0" expanded="false" />
+            <element signature="e#1486#1487#0" expanded="false" />
+            <element signature="e#1532#1533#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/scraper/WebScraper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="87" selection-start-line="34" selection-start-column="87" selection-end-line="34" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/scraper/WebScraper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37878788">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15151516">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="136" column="27" selection-start-line="136" selection-start-column="27" selection-end-line="136" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sainsburys/webextractor/scraper/SainsburysWebScraperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8712121">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/exception/ScraperException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3030303">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/model/ProductInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8333333">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#950#951#0" expanded="false" />
+            <element signature="e#978#979#0" expanded="false" />
+            <element signature="e#1020#1021#0" expanded="false" />
+            <element signature="e#1054#1055#0" expanded="false" />
+            <element signature="e#1089#1090#0" expanded="false" />
+            <element signature="e#1116#1117#0" expanded="false" />
+            <element signature="e#1160#1161#0" expanded="false" />
+            <element signature="e#1192#1193#0" expanded="false" />
+            <element signature="e#1232#1233#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1318#1319#0" expanded="false" />
+            <element signature="e#1360#1361#0" expanded="false" />
+            <element signature="e#1398#1399#0" expanded="false" />
+            <element signature="e#1432#1433#0" expanded="false" />
+            <element signature="e#1486#1487#0" expanded="false" />
+            <element signature="e#1532#1533#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/scraper/SainsburysWebScraper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0227273">
+          <caret line="27" column="0" selection-start-line="26" selection-start-column="4" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sainsburys/webextractor/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6060606">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+</project>
