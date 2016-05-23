@@ -3,9 +3,7 @@ Web Extractor is a Console Spring Boot application which scraps information from
 
 The implementation for Sainsburys outputs a JSON array of all the products on their page.
 
-running the application
------------------------
-
+# Running the application
 The simplest way to run the application is to clone the repository, and use gradle to compile and run it:
 
     cd /webscraper
@@ -17,14 +15,10 @@ The simplest way to run the application is to clone the repository, and use grad
 The build will be successful only if all tests pass successfully. Build process will also create a standalone jar.
 
 
-testing
--------
-
+# Testing
 To execute unit tests run:
 
 `gradle test`
 
-design notes
--------------
-
+# Design notes
 The application uses Spring Boot and uses IOC to wire the scraper. The URI is picked up from application.properties. We can easily extend this application to be a micro service and implement scrapers for other sites.
